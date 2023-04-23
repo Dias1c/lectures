@@ -34,5 +34,5 @@
 
 ## Рассширения для chrome
 - [Codefaster Snippets](https://chrome.google.com/webstore/detail/codefaster/ngmefbinfoehcmkejelffgafddimffkl) - в результатах поиска показывает подсказки/результаты по коду сохраненные интузиастами. То есть решения которые им помогли.
-- [Optisearch] - показывает нужное содержимое страниц в результатах поиска, так же с чатом GPT.
+- [Optisearch](https://chrome.google.com/webstore/detail/optisearch/bbojmeobdaicehcopocnfhaagefleiae) - показывает нужное содержимое страниц в результатах поиска, так же с чатом GPT.
 > Эти расширения конфликтуют друг с другом, по этому советую установить одну из них, и чередовать местами.

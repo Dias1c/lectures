@@ -88,7 +88,7 @@
 
 > Как раз таки тут показаны актуальные на данный момент поисковые операторы.
 
-- https://ahrefs.com/blog/google-advanced-search-operators/
+- [Ссылка на операторов поиска](https://ahrefs.com/blog/google-advanced-search-operators/)
 
 Пример:
 

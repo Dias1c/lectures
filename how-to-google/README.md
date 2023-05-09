@@ -50,7 +50,7 @@
 
 > Подробнее про работу поиска [тут](https://www.google.com/search/howsearchworks/how-search-works/ranking-results/#meaning).
 
-## Какие возможности есть у строки поиска Google?
+## Какие возможности есть у поиска Google?
 
 Как раз таки через поисковую строку можно делать:
 

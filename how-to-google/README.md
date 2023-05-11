@@ -83,7 +83,7 @@
 - `cache:DOMAIN` - дает версию сайта который google закешировал
 - `after:YYYY_MM_DD` и `before:YYYY_MM_DD` - выдает результаты созданные `после`/`до` даты
 
-- [Ссылка на все операторы поиска](https://ahrefs.com/blog/google-advanced-search-operators/) - тут показаны актуальные, сломанные и не рабочие операторы которых убрал гугл.
+> [Ссылка на все операторы поиска](https://ahrefs.com/blog/google-advanced-search-operators/) - тут показаны актуальные, сломанные и не рабочие операторы которых убрал гугл.
 
 ```js
 after:2023-05-01 site:hh.kz ("golang" OR "go") -агент AND ("вакансия" OR "разработчик")

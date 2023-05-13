@@ -1,5 +1,7 @@
 # Как эффективно гуглить?
 
+> [Ссылка на презентацию](https://docs.google.com/presentation/d/1YRCCxzBEdeO5cZ8Vtp-OxockPgGHSEhWXhtdHuo0pTw/edit?usp=sharing)
+
 Тут мы узнаем подробнее об:
 
 - Интерфейс поисковика гугл.

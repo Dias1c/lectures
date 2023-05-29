@@ -1,6 +1,6 @@
 # Как эффективно гуглить?
 
-> - [Ссылка на видео лекции (рекомендуется смотреть на 2x скорости)](https://www.youtube.com/watch?v=MCwsVAgHVzU&t=29s)
+> - [Ссылка на видео лекции (*рекомендуется смотреть/слушать на 2x скорости с просмотром презентации*)](https://www.youtube.com/watch?v=MCwsVAgHVzU&t=29s)
 > - [Ссылка на презентацию](https://docs.google.com/presentation/d/1YRCCxzBEdeO5cZ8Vtp-OxockPgGHSEhWXhtdHuo0pTw/edit?usp=sharing)
 > - [Ссылка на quiz](https://create.kahoot.it/details/caa1f248-bc83-48f9-806d-a6fd10d1f20c)
 
